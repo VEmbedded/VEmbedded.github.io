@@ -14,8 +14,6 @@ year: 2024
 price: 50
 sku: 
 in_stock: 25
-images:
-  - '/assets/images/usb2uart/pic1.jpg'
-  - '/assets/images/usb2uart/pic2.jpg'
+image: "/assets/images/usb2uart/pic1.jpg"
 layout: product
 ---
